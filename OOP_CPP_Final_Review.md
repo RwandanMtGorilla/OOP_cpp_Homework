@@ -1,4 +1,6 @@
 # C++期末大复习
+
+## [check on github](https://github.com/RwandanMtGorilla/OOP_cpp_Homework/blob/main/OOP_CPP_Final_Review.md)
 - reference by wsy: https://namic00.github.io/tags/C-C/
 
 ## 题型
